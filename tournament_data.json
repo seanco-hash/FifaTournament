@@ -1,0 +1,622 @@
+{
+    "players": [
+        "Liron Levran",
+        "Itai Eldar",
+        "Amit Azoulay",
+        "Sean Cohen",
+        "Benny Bain",
+        "Yuval Gabay",
+        "Naveh Ayal",
+        "Gilad Ben Uziahu",
+        "Ofir Liba",
+        "Omer Mar Chaim",
+        "Sagi Katzav",
+        "Yonatan Golick",
+        "Avishay Hadar",
+        "Elie Zemmour",
+        "Amnon Shapiro",
+        "Eyal Hanania",
+        "Sharon Magril",
+        "Neta Kakon",
+        "Michael Bubis",
+        "Daniel Arkushin",
+        "Daniel Ben Moshe",
+        "Nadav Kirsch"
+    ],
+    "matches": [
+        {
+            "week": 1,
+            "match_id": 1,
+            "group": "A vs B",
+            "p1": "Liron Levran",
+            "score1": null,
+            "p2": "Itai Eldar",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 2,
+            "group": "A vs B",
+            "p1": "Amit Azoulay",
+            "score1": null,
+            "p2": "Sean Cohen",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 3,
+            "group": "A vs B",
+            "p1": "Benny Bain",
+            "score1": null,
+            "p2": "Yuval Gabay",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 4,
+            "group": "A vs B",
+            "p1": "Naveh Ayal",
+            "score1": null,
+            "p2": "Gilad Ben Uziahu",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 5,
+            "group": "A vs B",
+            "p1": "Ofir Liba",
+            "score1": null,
+            "p2": "Omer Mar Chaim",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 6,
+            "group": "A vs B",
+            "p1": "Sagi Katzav",
+            "score1": null,
+            "p2": "Yonatan Golick",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 7,
+            "group": "A vs B",
+            "p1": "Avishay Hadar",
+            "score1": null,
+            "p2": "Elie Zemmour",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 57,
+            "group": "C Internal",
+            "p1": "Amnon Shapiro",
+            "score1": null,
+            "p2": "Eyal Hanania",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 58,
+            "group": "C Internal",
+            "p1": "Sharon Magril",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 61,
+            "group": "C Internal",
+            "p1": "Michael Bubis",
+            "score1": null,
+            "p2": "Daniel Arkushin",
+            "score2": null
+        },
+        {
+            "week": 1,
+            "match_id": 62,
+            "group": "C Internal",
+            "p1": "Daniel Ben Moshe",
+            "score1": null,
+            "p2": "Nadav Kirsch",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 8,
+            "group": "A vs B",
+            "p1": "Liron Levran",
+            "score1": null,
+            "p2": "Sean Cohen",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 9,
+            "group": "A vs B",
+            "p1": "Amit Azoulay",
+            "score1": null,
+            "p2": "Yuval Gabay",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 10,
+            "group": "A vs B",
+            "p1": "Benny Bain",
+            "score1": null,
+            "p2": "Gilad Ben Uziahu",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 11,
+            "group": "A vs B",
+            "p1": "Naveh Ayal",
+            "score1": null,
+            "p2": "Omer Mar Chaim",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 12,
+            "group": "A vs B",
+            "p1": "Ofir Liba",
+            "score1": null,
+            "p2": "Yonatan Golick",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 13,
+            "group": "A vs B",
+            "p1": "Sagi Katzav",
+            "score1": null,
+            "p2": "Elie Zemmour",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 14,
+            "group": "A vs B",
+            "p1": "Avishay Hadar",
+            "score1": null,
+            "p2": "Itai Eldar",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 63,
+            "group": "C Internal",
+            "p1": "Michael Bubis",
+            "score1": null,
+            "p2": "Amnon Shapiro",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 64,
+            "group": "C Internal",
+            "p1": "Daniel Arkushin",
+            "score1": null,
+            "p2": "Eyal Hanania",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 65,
+            "group": "C Internal",
+            "p1": "Daniel Ben Moshe",
+            "score1": null,
+            "p2": "Sharon Magril",
+            "score2": null
+        },
+        {
+            "week": 2,
+            "match_id": 66,
+            "group": "C Internal",
+            "p1": "Nadav Kirsch",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 15,
+            "group": "A vs C",
+            "p1": "Liron Levran",
+            "score1": null,
+            "p2": "Michael Bubis",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 16,
+            "group": "A vs C",
+            "p1": "Amit Azoulay",
+            "score1": null,
+            "p2": "Daniel Arkushin",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 17,
+            "group": "A vs C",
+            "p1": "Benny Bain",
+            "score1": null,
+            "p2": "Daniel Ben Moshe",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 18,
+            "group": "A vs C",
+            "p1": "Naveh Ayal",
+            "score1": null,
+            "p2": "Nadav Kirsch",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 19,
+            "group": "A vs C",
+            "p1": "Ofir Liba",
+            "score1": null,
+            "p2": "Sharon Magril",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 20,
+            "group": "A vs C",
+            "p1": "Sagi Katzav",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 21,
+            "group": "A vs C",
+            "p1": "Avishay Hadar",
+            "score1": null,
+            "p2": "Amnon Shapiro",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 50,
+            "group": "B Internal",
+            "p1": "Itai Eldar",
+            "score1": null,
+            "p2": "Sean Cohen",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 51,
+            "group": "B Internal",
+            "p1": "Sean Cohen",
+            "score1": null,
+            "p2": "Yuval Gabay",
+            "score2": null
+        },
+        {
+            "week": 3,
+            "match_id": 52,
+            "group": "B Internal",
+            "p1": "Yuval Gabay",
+            "score1": null,
+            "p2": "Gilad Ben Uziahu",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 22,
+            "group": "A vs C",
+            "p1": "Liron Levran",
+            "score1": null,
+            "p2": "Daniel Arkushin",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 23,
+            "group": "A vs C",
+            "p1": "Amit Azoulay",
+            "score1": null,
+            "p2": "Daniel Ben Moshe",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 24,
+            "group": "A vs C",
+            "p1": "Benny Bain",
+            "score1": null,
+            "p2": "Nadav Kirsch",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 25,
+            "group": "A vs C",
+            "p1": "Naveh Ayal",
+            "score1": null,
+            "p2": "Michael Bubis",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 26,
+            "group": "A vs C",
+            "p1": "Ofir Liba",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 27,
+            "group": "A vs C",
+            "p1": "Sagi Katzav",
+            "score1": null,
+            "p2": "Sharon Magril",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 28,
+            "group": "A vs C",
+            "p1": "Avishay Hadar",
+            "score1": null,
+            "p2": "Eyal Hanania",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 53,
+            "group": "B Internal",
+            "p1": "Gilad Ben Uziahu",
+            "score1": null,
+            "p2": "Omer Mar Chaim",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 54,
+            "group": "B Internal",
+            "p1": "Omer Mar Chaim",
+            "score1": null,
+            "p2": "Yonatan Golick",
+            "score2": null
+        },
+        {
+            "week": 4,
+            "match_id": 55,
+            "group": "B Internal",
+            "p1": "Yonatan Golick",
+            "score1": null,
+            "p2": "Elie Zemmour",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 29,
+            "group": "B vs C",
+            "p1": "Itai Eldar",
+            "score1": null,
+            "p2": "Michael Bubis",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 30,
+            "group": "B vs C",
+            "p1": "Sean Cohen",
+            "score1": null,
+            "p2": "Daniel Arkushin",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 31,
+            "group": "B vs C",
+            "p1": "Yuval Gabay",
+            "score1": null,
+            "p2": "Daniel Ben Moshe",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 32,
+            "group": "B vs C",
+            "p1": "Gilad Ben Uziahu",
+            "score1": null,
+            "p2": "Nadav Kirsch",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 33,
+            "group": "B vs C",
+            "p1": "Omer Mar Chaim",
+            "score1": null,
+            "p2": "Amnon Shapiro",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 34,
+            "group": "B vs C",
+            "p1": "Yonatan Golick",
+            "score1": null,
+            "p2": "Eyal Hanania",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 35,
+            "group": "B vs C",
+            "p1": "Elie Zemmour",
+            "score1": null,
+            "p2": "Sharon Magril",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 43,
+            "group": "A Internal",
+            "p1": "Liron Levran",
+            "score1": null,
+            "p2": "Amit Azoulay",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 44,
+            "group": "A Internal",
+            "p1": "Amit Azoulay",
+            "score1": null,
+            "p2": "Benny Bain",
+            "score2": null
+        },
+        {
+            "week": 5,
+            "match_id": 45,
+            "group": "A Internal",
+            "p1": "Benny Bain",
+            "score1": null,
+            "p2": "Naveh Ayal",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 36,
+            "group": "B vs C",
+            "p1": "Itai Eldar",
+            "score1": null,
+            "p2": "Daniel Arkushin",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 37,
+            "group": "B vs C",
+            "p1": "Sean Cohen",
+            "score1": null,
+            "p2": "Daniel Ben Moshe",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 38,
+            "group": "B vs C",
+            "p1": "Yuval Gabay",
+            "score1": null,
+            "p2": "Nadav Kirsch",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 39,
+            "group": "B vs C",
+            "p1": "Gilad Ben Uziahu",
+            "score1": null,
+            "p2": "Michael Bubis",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 40,
+            "group": "B vs C",
+            "p1": "Omer Mar Chaim",
+            "score1": null,
+            "p2": "Eyal Hanania",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 41,
+            "group": "B vs C",
+            "p1": "Yonatan Golick",
+            "score1": null,
+            "p2": "Amnon Shapiro",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 42,
+            "group": "B vs C",
+            "p1": "Elie Zemmour",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 46,
+            "group": "A Internal",
+            "p1": "Naveh Ayal",
+            "score1": null,
+            "p2": "Ofir Liba",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 47,
+            "group": "A Internal",
+            "p1": "Ofir Liba",
+            "score1": null,
+            "p2": "Sagi Katzav",
+            "score2": null
+        },
+        {
+            "week": 6,
+            "match_id": 48,
+            "group": "A Internal",
+            "p1": "Sagi Katzav",
+            "score1": null,
+            "p2": "Avishay Hadar",
+            "score2": null
+        },
+        {
+            "week": 7,
+            "match_id": 49,
+            "group": "A Internal",
+            "p1": "Avishay Hadar",
+            "score1": null,
+            "p2": "Liron Levran",
+            "score2": null
+        },
+        {
+            "week": 7,
+            "match_id": 56,
+            "group": "B Internal",
+            "p1": "Elie Zemmour",
+            "score1": null,
+            "p2": "Itai Eldar",
+            "score2": null
+        },
+        {
+            "week": 7,
+            "match_id": 59,
+            "group": "C Internal",
+            "p1": "Amnon Shapiro",
+            "score1": null,
+            "p2": "Sharon Magril",
+            "score2": null
+        },
+        {
+            "week": 7,
+            "match_id": 60,
+            "group": "C Internal",
+            "p1": "Eyal Hanania",
+            "score1": null,
+            "p2": "Neta Kakon",
+            "score2": null
+        }
+    ]
+}
