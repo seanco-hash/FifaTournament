@@ -27,14 +27,22 @@ INITIAL_MATCHES = [
     # If you want to force-reset, you can clear the Google Sheet columns manually.
 ]
 
-TOP_TEAMS = [
+TOP_TEAMS = sorted([
+    # --- Top Clubs ---
     "Manchester City", "Real Madrid", "Bayern Munich", "Liverpool", "Arsenal",
     "Inter Milan", "Bayer Leverkusen", "Paris Saint-Germain", "FC Barcelona",
     "Atletico Madrid", "Juventus", "Borussia Dortmund", "AC Milan", "RB Leipzig",
     "Atalanta", "Benfica", "Sporting CP", "Napoli", "Tottenham Hotspur",
     "Chelsea", "Manchester United", "Newcastle United", "Aston Villa", "Sevilla",
-    "Roma", "Lazio", "PSV Eindhoven", "Feyenoord", "Galatasaray", "Ajax"
-]
+    "AS Roma", "Lazio", "PSV Eindhoven", "Feyenoord", "Galatasaray", "Ajax",
+    "FC Porto",
+
+    # --- Top National Teams ---
+    "Argentina", "France ", "England ",
+    "Brazil ", "Spain ", "Portugal ",
+    "Netherlands ", "Belgium ", "Italy ",
+    "Germany ", "Croatia ", "Uruguay ", "Norway ",
+])
 
 
 # --- Helper Functions ---
