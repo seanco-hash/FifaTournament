@@ -9,7 +9,7 @@ import json
 INITIAL_PLAYERS = [
     "Liron Levran", "Itai Eldar", "Amit Azoulay", "Sean Cohen", "Benny Bain", "Yuval Gabay",
     "Naveh Ayal", "Gilad Ben Uziahu", "Ofir Liba", "Omer Mar Chaim", "Sagi Katzav", "Yonatan Golick",
-    "Avishay Hadar", "Elie Zemmour", "Amnon Shapiro", "Eyal Hanania", "Sharon Magril", "Neta Kakon",
+    "Assaf Wainberg", "Elie Zemmour", "Amnon Shapiro", "Eyal Hanania", "Sharon Magril", "Neta Kakon",
     "Michael Bubis", "Daniel Arkushin", "Daniel Ben Moshe", "Nadav Kirsch"
 ]
 
@@ -21,7 +21,7 @@ INITIAL_MATCHES = [
     {"week": 1, "match_id": 4, "p1": "Naveh Ayal", "p2": "Gilad Ben Uziahu"},
     {"week": 1, "match_id": 5, "p1": "Ofir Liba", "p2": "Omer Mar Chaim"},
     {"week": 1, "match_id": 6, "p1": "Sagi Katzav", "p2": "Yonatan Golick"},
-    {"week": 1, "match_id": 7, "p1": "Avishay Hadar", "p2": "Elie Zemmour"},
+    {"week": 1, "match_id": 7, "p1": "Assaf Wainberg", "p2": "Elie Zemmour"},
     # ... (I've truncated the list for brevity, but the logic handles whatever is in the DB)
     # The app will actually load whatever is in the sheet, so the initial list here is just for the very first setup.
     # If you want to force-reset, you can clear the Google Sheet columns manually.

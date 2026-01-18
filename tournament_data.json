@@ -12,7 +12,7 @@
         "Omer Mar Chaim",
         "Sagi Katzav",
         "Yonatan Golick",
-        "Avishay Hadar",
+        "Assaf Wainberg",
         "Elie Zemmour",
         "Amnon Shapiro",
         "Eyal Hanania",
@@ -82,7 +82,7 @@
             "week": 1,
             "match_id": 7,
             "group": "A vs B",
-            "p1": "Avishay Hadar",
+            "p1": "Assaf Wainberg",
             "score1": null,
             "p2": "Elie Zemmour",
             "score2": null
@@ -181,7 +181,7 @@
             "week": 2,
             "match_id": 14,
             "group": "A vs B",
-            "p1": "Avishay Hadar",
+            "p1": "Assaf Wainberg",
             "score1": null,
             "p2": "Itai Eldar",
             "score2": null
@@ -280,7 +280,7 @@
             "week": 3,
             "match_id": 21,
             "group": "A vs C",
-            "p1": "Avishay Hadar",
+            "p1": "Assaf Wainberg",
             "score1": null,
             "p2": "Amnon Shapiro",
             "score2": null
@@ -370,7 +370,7 @@
             "week": 4,
             "match_id": 28,
             "group": "A vs C",
-            "p1": "Avishay Hadar",
+            "p1": "Assaf Wainberg",
             "score1": null,
             "p2": "Eyal Hanania",
             "score2": null
@@ -579,14 +579,14 @@
             "group": "A Internal",
             "p1": "Sagi Katzav",
             "score1": null,
-            "p2": "Avishay Hadar",
+            "p2": "Assaf Wainberg",
             "score2": null
         },
         {
             "week": 7,
             "match_id": 49,
             "group": "A Internal",
-            "p1": "Avishay Hadar",
+            "p1": "Assaf Wainberg",
             "score1": null,
             "p2": "Liron Levran",
             "score2": null
